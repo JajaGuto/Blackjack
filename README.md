@@ -12,3 +12,5 @@ wins.npy
 bets.npy
 
 After, run the file Blackjack_plots.py in order to genarate the plots.
+
+[balance.pdf](https://github.com/JajaGuto/Blackjack/files/11364921/balance.pdf)
