@@ -1,6 +1,6 @@
 # Blackjack
 
-In orther to execute the experiments:
+In order to execute the experiments:
 
 In the file blackjack_simulator.ipynb, run all the cells in order to generate and save the data.
 
